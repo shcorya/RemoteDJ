@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity$GeneralPreferenceFragment"
+        android:title="@string/pref_header_general" />
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity$NotificationPreferenceFragment"
+        android:title="@string/pref_header_notifications" />
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity$DataSyncPreferenceFragment"
+        android:title="@string/pref_header_data_sync" />
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity2$GeneralPreferenceFragment"
+        android:title="@string/pref_header_general" />
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity2$NotificationPreferenceFragment"
+        android:title="@string/pref_header_notifications" />
+    <header
+        android:fragment="...........................mnt.Home.Documents.dev.RemoteDJ.remotedj.src.main.java.org.corya.remotedj.SettingsActivity2$DataSyncPreferenceFragment"
+        android:title="@string/pref_header_data_sync" />
+
+</preference-headers>
+<!-- From: file:/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/main/res/xml/pref_headers.xml -->

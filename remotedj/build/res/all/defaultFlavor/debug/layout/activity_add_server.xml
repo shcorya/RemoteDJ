@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:text="Enter Server IP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/ip_input"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </EditText>
+    <TextView
+        android:text="Enter Server Port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/port_input"
+        android:inputType="number"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </EditText>
+    <TextView
+        android:text="Enter Server Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/name_input"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </EditText>
+    <Button
+        android:id="@+id/add"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Add">
+    </Button>
+</LinearLayout><!-- From: file:/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/main/res/layout/activity_add_server.xml -->

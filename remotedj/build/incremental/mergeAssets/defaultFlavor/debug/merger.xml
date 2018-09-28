@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComMobetaAndroidDslvDragSortListview061.aar" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/build/exploded-bundles/ComMobetaAndroidDslvDragSortListview061.aar/assets" />
+    </dataSet>
+    <dataSet config="ComAstuetzPagerslidingtabstrip101.aar" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/build/exploded-bundles/ComAstuetzPagerslidingtabstrip101.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/main/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavor" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/defaultFlavor/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/debug/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavorDebug" >
+        <source path="/mnt/Home/Dropbox/dev/RemoteDJ/remotedj/src/defaultFlavorDebug/assets" />
+    </dataSet>
+
+</merger>
